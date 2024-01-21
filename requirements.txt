@@ -1,0 +1,7 @@
+openai
+embedchain
+streamlit
+streamlit_chat
+together
+docx2txt
+dotenv
