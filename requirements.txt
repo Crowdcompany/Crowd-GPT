@@ -4,4 +4,4 @@ streamlit
 streamlit_chat
 together
 docx2txt
-dotenv
+python-dotenv
